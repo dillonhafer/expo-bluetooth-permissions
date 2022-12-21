@@ -1,0 +1,16 @@
+{
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "ios": {
+    "modules": [
+      "RNBluetoothPermissionsModule"
+    ]
+  },
+  "android": {
+    "modules": [
+      "expo.modules.expobluetoothpermissions.RNBluetoothPermissionsModule"
+    ]
+  }
+}
